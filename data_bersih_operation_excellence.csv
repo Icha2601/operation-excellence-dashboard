@@ -1,0 +1,1237 @@
+Tanggal,Jam,Setting_Speed_RPM,Suhu_Mesin,Output_Qty_OK,Reject_Qty_NG,Nama_Mesin,Tipe,Lokasi,Nama_Lengkap,Grup_Shift,Skill_Level
+2026-04-01,07:00,1319,62,113,,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-04-01,15:00,1842,87,188,26.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-04-01,23:00,981,78,326,49.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-04-01,07:00,1601,87,188,30.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-04-01,15:00,1722,80,257,41.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-04-01,23:00,1378,81,405,27.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-04-01,07:00,854,110,374,37.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-04-01,15:00,860,111,133,50.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-04-01,23:00,1019,97,164,34.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-04-01,07:00,1784,67,207,46.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-04-01,15:00,1756,78,495,8.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-01,23:00,1104,57,402,35.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-04-01,07:00,1394,70,276,45.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-01,15:00,1148,52,320,16.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-04-01,23:00,976,61,150,41.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-04-02,07:00,1073,111,367,44.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-02,15:00,970,80,478,13.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-02,23:00,1112,107,189,28.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-04-02,07:00,1725,81,111,7.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-02,15:00,1555,116,336,47.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-02,23:00,833,63,334,49.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-02,07:00,1730,99,317,34.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-04-02,15:00,1866,93,274,37.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-04-02,23:00,1859,58,424,1.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-04-02,07:00,1265,77,495,32.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-04-02,15:00,1759,95,456,50.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-04-02,23:00,1838,107,352,33.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-02,07:00,942,117,119,12.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-04-02,15:00,1051,55,407,27.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-02,23:00,1199,93,210,20.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-04-03,07:00,1521,92,437,,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-04-03,15:00,1566,55,293,17.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-03,23:00,1239,56,268,12.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-04-03,07:00,1601,66,424,27.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-04-03,15:00,860,90,390,29.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-03,23:00,1234,94,194,4.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-04-03,07:00,936,96,167,27.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-03,15:00,1081,114,252,7.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-03,23:00,1712,77,431,13.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-04-03,07:00,1024,60,163,19.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-04-03,15:00,1000,50,136,43.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-04-03,23:00,1892,79,380,15.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-04-03,07:00,875,77,492,16.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-04-03,15:00,1174,92,239,37.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-04-03,23:00,1262,57,174,36.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-04,07:00,1384,95,179,41.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-04-04,15:00,1201,94,185,48.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-04,23:00,1100,86,204,26.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-04-04,07:00,1669,99,202,11.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-04,15:00,1592,59,436,5.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-04-04,23:00,1329,63,135,15.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-04,07:00,2000,66,430,33.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-04,15:00,1940,108,484,16.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-04-04,23:00,1587,92,446,27.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-04-04,07:00,1803,89,419,44.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-04-04,15:00,928,70,267,19.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-04-04,23:00,1411,72,363,22.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-04-04,07:00,920,116,133,25.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-04-04,15:00,1096,112,194,45.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-04-04,23:00,1175,54,184,12.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-04-05,07:00,1953,58,384,50.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-04-05,15:00,1243,67,493,34.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-04-05,23:00,854,116,344,49.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-04-05,07:00,1585,70,259,14.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-04-05,15:00,1945,88,348,26.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-04-05,23:00,838,111,153,0.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-04-05,15:00,1453,67,372,32.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-04-05,23:00,1270,99,131,35.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-04-05,07:00,1100,88,261,47.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-04-05,15:00,1512,104,272,48.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-04-05,23:00,1280,97,319,50.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-04-05,07:00,1936,65,227,23.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-04-05,15:00,1083,103,152,37.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-05,23:00,1753,119,272,30.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-04-06,07:00,869,88,436,24.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-04-06,15:00,1700,66,127,34.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-06,23:00,1331,104,305,0.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-04-06,07:00,1124,118,452,22.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-06,15:00,846,109,499,34.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-06,23:00,1959,65,451,0.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-06,07:00,1691,98,240,27.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-04-06,15:00,1948,115,126,13.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-04-06,23:00,1968,58,482,16.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-04-06,07:00,1862,86,498,26.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-06,15:00,1793,85,378,3.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-04-06,23:00,1765,96,249,46.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-04-06,15:00,1267,60,268,4.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-04-06,23:00,1635,67,450,12.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-04-07,07:00,1562,75,468,23.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-04-07,15:00,1943,93,332,43.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-04-07,23:00,1644,55,310,38.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-04-07,07:00,1958,86,250,48.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-04-07,15:00,1286,74,482,13.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-04-07,23:00,998,101,301,22.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-07,07:00,1633,117,182,2.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-07,15:00,1085,74,500,12.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-04-07,23:00,1061,89,222,19.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-07,07:00,1249,101,172,26.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-04-07,15:00,1101,51,228,5.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-07,23:00,1635,51,287,9.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-04-07,07:00,1639,78,341,35.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-04-07,15:00,1285,120,232,28.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-07,23:00,912,106,168,39.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-04-08,07:00,1745,62,318,49.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-04-08,15:00,1373,54,174,15.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-04-08,23:00,1563,115,113,37.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-04-08,07:00,1908,73,421,38.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-04-08,15:00,1658,58,130,32.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-08,23:00,877,56,468,16.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-04-08,07:00,1996,114,139,30.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-08,15:00,1226,115,311,10.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-08,23:00,1692,86,495,38.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-04-08,07:00,1965,105,154,8.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-04-08,15:00,1779,94,198,14.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-04-08,23:00,1745,102,304,26.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-08,07:00,1221,67,416,46.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-04-08,23:00,1856,81,229,40.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-04-09,07:00,858,86,454,1.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-09,15:00,1171,94,284,44.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-04-09,23:00,1530,97,249,35.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-04-09,07:00,949,118,115,3.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-09,15:00,1296,118,258,28.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-04-09,23:00,1449,50,279,3.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-04-09,07:00,1442,92,188,41.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-09,15:00,1606,109,364,19.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-04-09,23:00,1468,98,319,45.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-04-09,07:00,1656,71,353,50.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-04-09,15:00,955,56,471,41.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-04-09,23:00,1429,73,415,23.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-09,07:00,1889,97,300,2.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-04-09,15:00,1077,83,351,,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-09,23:00,802,78,268,38.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-04-10,07:00,1157,54,343,33.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-04-10,15:00,1555,76,207,38.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-04-10,07:00,1407,78,231,48.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-04-10,15:00,1078,119,446,13.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-10,23:00,1719,60,251,33.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-04-10,07:00,1748,74,361,27.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-10,15:00,988,56,250,48.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-04-10,23:00,1831,102,151,,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-04-10,07:00,1799,109,440,32.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-10,15:00,1136,109,316,3.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-04-10,23:00,1911,61,428,50.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-04-10,07:00,820,98,298,35.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-04-10,15:00,1844,78,326,43.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-04-10,23:00,1833,84,358,5.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-11,07:00,1972,68,327,21.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-04-11,15:00,1197,65,495,34.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-04-11,23:00,991,102,382,44.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-04-11,07:00,1931,64,300,19.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-11,15:00,1041,79,102,28.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-11,23:00,952,95,375,40.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-04-11,07:00,1894,98,284,32.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-04-11,15:00,813,111,296,44.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-11,23:00,995,83,434,,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-11,07:00,1989,61,114,17.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-04-11,15:00,1921,63,350,21.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-11,07:00,1606,101,441,16.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-04-11,15:00,1487,82,389,26.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-04-11,23:00,1860,114,282,27.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-04-12,07:00,1193,77,276,46.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-04-12,15:00,1717,84,461,33.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-04-12,23:00,1852,90,309,40.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-04-12,07:00,1701,51,473,39.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-12,15:00,1330,63,397,28.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-04-12,23:00,992,54,408,32.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-12,07:00,1151,96,488,2.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-04-12,15:00,1452,79,104,32.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-12,23:00,933,111,254,,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-12,07:00,1636,97,392,3.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-04-12,15:00,1965,60,171,41.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-04-12,23:00,1237,64,476,44.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-04-12,07:00,1145,78,195,14.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-04-12,15:00,1838,66,160,46.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-04-12,23:00,1550,104,197,50.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-04-13,07:00,1500,76,378,7.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-04-13,15:00,912,70,324,11.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-04-13,23:00,1349,81,367,32.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-13,07:00,851,85,423,42.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-04-13,15:00,1874,82,102,9.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-04-13,23:00,1211,75,435,20.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-13,07:00,1781,69,342,48.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-13,15:00,1913,113,193,17.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-13,23:00,1526,52,465,,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-04-13,07:00,1259,81,395,49.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-04-13,23:00,1467,53,116,35.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-04-13,07:00,1014,105,450,4.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-04-13,15:00,875,60,339,44.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-04-13,23:00,992,58,330,33.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-04-14,07:00,1352,89,407,4.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-04-14,15:00,988,105,136,45.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-04-14,23:00,948,86,314,0.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-04-14,07:00,1385,116,320,11.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-04-14,15:00,1773,65,389,0.0,Press-02,Press,Gedung A,Operator_8,C,1
+2026-04-14,23:00,1585,56,148,25.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-04-14,07:00,1149,57,447,42.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-04-14,23:00,1361,112,201,49.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-04-14,07:00,981,56,328,41.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-14,15:00,1373,70,277,13.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-14,23:00,1853,90,227,34.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-04-14,07:00,1636,74,347,38.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-14,15:00,1284,80,460,28.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-14,23:00,1990,108,152,15.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-04-15,07:00,1765,65,418,48.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-04-15,15:00,1567,60,357,1.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-15,23:00,906,54,323,25.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-04-15,07:00,1380,58,226,42.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-04-15,15:00,1405,79,252,11.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-15,23:00,1078,85,353,19.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-04-15,07:00,1444,117,139,28.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-04-15,15:00,1158,90,235,34.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-04-15,23:00,934,54,232,18.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-04-15,07:00,949,102,388,40.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-04-15,15:00,1493,101,435,24.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-15,23:00,1506,109,378,26.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-04-15,07:00,1316,77,116,42.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-15,15:00,1556,62,171,32.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-04-15,23:00,1918,94,115,33.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-04-16,07:00,1286,64,384,6.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-04-16,23:00,1203,115,431,24.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-04-16,07:00,856,85,347,44.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-04-16,15:00,1284,102,480,14.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-04-16,23:00,1979,95,420,22.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-04-16,07:00,1478,103,499,39.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-04-16,15:00,1755,120,123,37.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-04-16,23:00,1757,61,480,10.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-16,07:00,1564,74,303,,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-04-16,15:00,824,106,263,9.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-04-16,23:00,1250,97,450,0.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-04-16,07:00,1705,59,348,9.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-04-16,15:00,1256,70,412,17.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-04-16,23:00,1388,108,499,20.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-04-17,07:00,1405,83,404,20.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-04-17,15:00,1207,59,170,25.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-04-17,23:00,1655,51,419,18.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-04-17,07:00,1347,117,314,9.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-17,15:00,1504,66,444,50.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-04-17,23:00,1219,54,499,42.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-04-17,07:00,1957,50,102,,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-04-17,15:00,904,105,345,18.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-04-17,23:00,920,62,348,49.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-04-17,07:00,1842,79,164,43.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-04-17,15:00,1572,91,312,13.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-17,23:00,1518,110,277,41.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-04-17,07:00,898,61,271,38.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-04-17,15:00,1942,85,438,31.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-04-17,23:00,954,63,461,44.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-18,07:00,1539,90,404,43.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-04-18,15:00,801,116,245,19.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-04-18,23:00,1409,53,308,42.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-18,07:00,1891,92,283,17.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-04-18,15:00,1293,62,308,15.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-04-18,23:00,1582,67,114,21.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-04-18,07:00,1441,63,180,5.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-04-18,15:00,1361,67,365,47.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-04-18,23:00,922,71,490,17.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-18,07:00,1068,53,307,36.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-04-18,15:00,1803,94,268,23.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-04-18,23:00,1593,76,206,33.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-04-18,07:00,1013,60,300,12.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-04-18,15:00,1107,108,182,2.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-04-18,23:00,1214,80,261,18.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-04-19,07:00,1232,79,272,9.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-19,15:00,1678,98,183,0.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-19,23:00,1125,55,423,23.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-19,07:00,1851,114,134,,Press-02,Press,Gedung A,Operator_13,A,4
+2026-04-19,15:00,1421,52,333,12.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-19,23:00,1777,70,372,32.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-04-19,07:00,1062,105,444,24.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-19,15:00,869,102,257,22.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-04-19,23:00,1924,65,465,43.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-19,07:00,1313,116,326,30.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-04-19,15:00,1500,86,208,14.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-19,23:00,1417,63,463,46.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-19,15:00,1776,66,332,29.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-04-19,23:00,816,109,185,6.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-20,07:00,1114,50,138,18.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-04-20,15:00,1195,116,287,39.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-04-20,23:00,1484,91,500,42.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-20,07:00,883,58,382,,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-20,15:00,933,78,309,23.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-04-20,23:00,1048,117,327,29.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-04-20,07:00,1563,112,226,27.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-20,15:00,894,109,108,14.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-04-20,23:00,1409,58,302,27.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-20,07:00,1683,77,317,41.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-04-20,15:00,835,68,439,,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-04-20,23:00,1645,82,453,48.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-04-20,07:00,971,70,155,30.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-04-20,15:00,1357,72,271,14.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-20,23:00,1758,111,261,2.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-04-21,07:00,1036,51,354,46.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-04-21,15:00,1714,65,371,42.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-04-21,23:00,1243,97,256,15.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-04-21,07:00,928,109,356,31.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-04-21,15:00,1880,66,191,10.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-04-21,23:00,1463,118,289,17.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-21,07:00,1748,96,435,17.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-04-21,15:00,1134,55,426,31.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-04-21,23:00,883,110,263,22.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-04-21,07:00,1881,86,307,48.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-04-21,15:00,1657,94,370,44.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-04-21,23:00,1140,81,474,15.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-04-21,07:00,1737,99,427,19.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-04-21,15:00,886,108,147,6.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-04-21,23:00,1277,105,486,23.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-04-22,07:00,1382,61,363,16.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-04-22,15:00,1709,112,106,27.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-04-22,23:00,1053,109,200,39.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-04-22,07:00,808,83,130,50.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-04-22,15:00,1349,115,223,0.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-04-22,23:00,1820,50,369,5.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-04-22,07:00,937,90,206,47.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-04-22,23:00,1123,107,309,10.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-22,07:00,1489,75,449,15.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-04-22,15:00,1986,52,177,2.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-04-22,23:00,1072,94,125,21.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-04-22,07:00,1612,76,266,44.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-04-22,15:00,1387,60,460,16.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-22,23:00,1484,99,235,19.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-04-23,07:00,1126,50,228,49.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-23,15:00,1144,104,142,42.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-04-23,23:00,1798,98,326,22.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-04-23,07:00,1243,97,261,47.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-04-23,15:00,1655,68,438,45.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-23,23:00,1253,50,365,,Press-02,Press,Gedung A,Operator_8,C,1
+2026-04-23,07:00,1261,86,248,47.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-04-23,15:00,1113,96,468,42.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-04-23,23:00,1185,58,273,,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-04-23,07:00,1140,96,439,2.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-04-23,15:00,1370,106,390,6.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-04-23,23:00,1968,59,241,18.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-04-23,07:00,1778,76,117,7.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-04-23,15:00,1805,118,275,,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-23,23:00,1898,119,293,,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-04-24,07:00,1752,101,154,,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-04-24,15:00,886,75,230,28.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-04-24,23:00,959,112,307,42.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-04-24,07:00,1353,95,117,,Press-02,Press,Gedung A,Operator_8,C,1
+2026-04-24,15:00,1528,94,365,38.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-04-24,23:00,1450,103,243,39.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-04-24,07:00,1708,72,299,,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-04-24,15:00,1413,87,158,42.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-04-24,23:00,1816,62,462,42.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-24,07:00,1850,58,220,41.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-04-24,15:00,1068,106,292,41.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-24,23:00,1637,68,314,36.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-24,07:00,1054,62,170,41.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-04-24,15:00,1594,107,234,23.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-04-24,23:00,872,77,169,45.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-25,07:00,1182,89,348,16.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-04-25,15:00,1677,82,269,14.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-04-25,23:00,927,78,288,31.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-04-25,07:00,1865,57,434,50.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-04-25,15:00,1186,103,367,38.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-04-25,23:00,1103,55,337,21.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-04-25,07:00,1607,100,440,29.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-25,15:00,1816,85,283,22.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-04-25,23:00,1914,95,431,11.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-04-25,07:00,1135,63,416,3.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-25,15:00,851,109,229,9.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-25,23:00,1572,86,360,38.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-04-25,07:00,1851,74,127,47.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-04-25,15:00,1896,119,308,49.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-04-25,23:00,1860,57,105,25.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-04-26,07:00,1975,112,398,4.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-04-26,15:00,1015,56,231,1.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-04-26,23:00,1696,55,233,38.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-04-26,07:00,1770,94,153,37.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-04-26,15:00,1806,69,422,3.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-26,23:00,1604,118,270,,Press-02,Press,Gedung A,Operator_9,B,2
+2026-04-26,07:00,1870,55,474,9.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-04-26,15:00,1422,68,202,12.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-04-26,23:00,1049,87,109,21.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-04-26,07:00,1867,59,233,8.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-26,15:00,980,119,239,16.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-26,23:00,1052,65,163,22.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-04-26,07:00,1049,65,315,40.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-04-26,15:00,1419,95,263,50.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-26,23:00,1710,59,121,0.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-27,07:00,1395,55,192,11.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-27,15:00,1480,79,288,30.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-27,23:00,1111,51,106,23.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-04-27,07:00,1101,75,101,46.0,Press-02,Press,Gedung A,Operator_8,C,1
+2026-04-27,15:00,899,117,415,35.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-27,23:00,1487,64,468,1.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-27,07:00,988,104,443,15.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-04-27,15:00,1828,72,183,14.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-04-27,23:00,1532,119,311,49.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-04-27,07:00,1108,104,252,39.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-04-27,15:00,1152,71,100,19.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-04-27,23:00,816,82,286,45.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-04-27,07:00,1582,76,149,8.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-04-27,15:00,1410,78,224,43.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-04-27,23:00,1816,57,296,49.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-04-28,07:00,1077,99,264,24.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-04-28,15:00,1712,116,275,44.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-04-28,23:00,944,100,160,47.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-04-28,07:00,1538,109,422,8.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-04-28,15:00,1773,110,139,41.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-04-28,23:00,973,93,497,24.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-04-28,07:00,1892,113,194,38.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-04-28,15:00,1188,75,244,38.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-04-28,23:00,1707,100,295,29.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-28,07:00,1293,79,393,25.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-04-28,15:00,1022,108,272,17.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-04-28,23:00,1461,84,266,8.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-04-28,07:00,1980,57,302,7.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-04-28,15:00,1698,91,381,31.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-28,23:00,888,74,163,33.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-04-29,07:00,1975,72,496,30.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-04-29,15:00,1785,91,441,14.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-04-29,23:00,1204,115,118,27.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-04-29,07:00,816,107,354,28.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-29,15:00,945,99,472,21.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-04-29,23:00,1811,83,201,19.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-04-29,07:00,1045,75,216,15.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-04-29,15:00,1800,62,376,26.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-04-29,23:00,1442,82,390,8.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-04-29,07:00,1000,72,291,36.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-04-29,15:00,923,77,393,,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-04-29,23:00,915,78,361,27.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-04-29,07:00,924,115,259,45.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-04-29,15:00,1707,86,222,50.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-04-30,07:00,1561,72,306,30.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-04-30,15:00,1015,111,127,28.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-04-30,23:00,881,101,101,18.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-04-30,07:00,1972,80,239,43.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-04-30,15:00,1559,92,253,42.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-04-30,23:00,1132,114,472,30.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-04-30,07:00,1866,118,204,5.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-30,15:00,1226,63,476,16.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-04-30,23:00,909,99,361,29.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-04-30,07:00,1117,65,116,1.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-04-30,15:00,1860,98,432,4.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-04-30,23:00,1234,81,473,45.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-04-30,07:00,1523,80,240,23.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-04-30,15:00,1608,52,229,33.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-04-30,23:00,1446,108,257,30.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-05-01,07:00,839,63,195,15.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-05-01,15:00,1571,105,294,47.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-05-01,23:00,937,82,107,27.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-05-01,07:00,1620,81,476,17.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-05-01,15:00,1495,82,308,23.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-01,23:00,1387,115,419,36.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-01,07:00,1740,75,373,33.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-05-01,15:00,1822,99,491,39.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-05-01,23:00,1733,81,183,6.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-01,07:00,1631,68,283,22.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-05-01,15:00,975,71,356,45.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-05-01,23:00,1091,111,114,2.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-05-01,07:00,1401,60,143,,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-01,15:00,1769,66,111,36.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-01,23:00,1829,63,416,8.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-05-02,07:00,1553,86,311,17.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-05-02,15:00,1703,72,301,36.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-05-02,23:00,861,62,361,34.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-05-02,07:00,1437,57,448,24.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-05-02,15:00,1822,70,329,7.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-02,23:00,1327,61,319,45.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-05-02,07:00,1778,117,276,,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-05-02,15:00,936,52,217,15.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-05-02,23:00,1206,84,239,,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-05-02,07:00,846,64,191,23.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-05-02,15:00,1444,103,165,41.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-02,23:00,1701,79,363,48.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-02,07:00,812,89,103,34.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-02,15:00,1583,64,489,33.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-02,23:00,1853,66,482,46.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-03,07:00,1911,75,128,20.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-05-03,15:00,837,83,139,26.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-05-03,23:00,1471,69,473,34.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-05-03,07:00,861,109,176,5.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-03,15:00,916,91,159,11.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-05-03,23:00,1155,77,492,43.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-05-03,07:00,1472,78,106,28.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-05-03,15:00,1294,96,308,19.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-03,23:00,1135,104,191,,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-03,07:00,1596,111,370,37.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-05-03,15:00,1036,54,259,8.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-03,23:00,923,112,311,22.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-05-03,07:00,1998,109,472,1.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-05-03,15:00,1024,77,269,8.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-05-03,23:00,1750,70,328,19.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-05-04,15:00,1571,86,358,34.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-05-04,23:00,1574,119,426,2.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-05-04,07:00,1275,98,305,,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-04,15:00,912,86,385,45.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-05-04,23:00,1674,79,453,7.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-05-04,07:00,820,71,416,48.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-05-04,15:00,1310,80,492,24.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-05-04,23:00,857,71,404,8.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-05-04,07:00,881,116,259,21.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-05-04,15:00,1442,87,308,10.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-05-04,23:00,1986,67,173,49.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-04,07:00,897,75,294,,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-05-04,15:00,1159,91,222,2.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-05-05,07:00,907,103,193,17.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-05-05,15:00,1538,79,372,20.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-05-05,23:00,1404,110,371,12.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-05-05,07:00,1519,118,316,38.0,Press-02,Press,Gedung A,Operator_8,C,1
+2026-05-05,15:00,1104,110,290,8.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-05,23:00,1226,66,404,47.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-05,07:00,1266,50,329,48.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-05-05,15:00,1729,51,195,42.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-05-05,23:00,1963,94,454,32.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-05-05,07:00,1955,96,224,48.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-05-05,15:00,1699,50,230,10.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-05-05,23:00,1041,84,444,,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-05-05,07:00,1420,116,231,34.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-05-05,15:00,1591,64,162,30.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-05-05,23:00,1012,92,216,9.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-06,07:00,1824,51,192,26.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-05-06,15:00,1327,93,232,8.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-05-06,07:00,1086,89,196,49.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-05-06,15:00,1053,110,395,28.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-05-06,23:00,1958,76,271,8.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-05-06,07:00,1461,97,496,7.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-05-06,15:00,1716,83,350,39.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-05-06,23:00,1370,112,441,45.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-05-06,07:00,1023,53,306,24.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-05-06,15:00,1427,73,276,7.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-05-06,23:00,1576,78,343,8.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-05-06,07:00,1737,97,408,,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-06,15:00,1506,77,472,17.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-05-06,23:00,1557,62,381,12.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-05-07,07:00,1018,55,227,27.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-05-07,15:00,1706,61,216,25.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-05-07,23:00,1839,92,243,22.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-05-07,07:00,1560,108,492,18.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-05-07,15:00,1008,90,126,39.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-05-07,23:00,1903,108,486,34.0,Press-02,Press,Gedung A,Operator_8,C,1
+2026-05-07,07:00,1345,89,326,14.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-05-07,15:00,1334,69,316,21.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-05-07,23:00,1129,78,289,23.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-07,07:00,886,59,446,0.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-05-07,15:00,1690,108,387,47.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-05-07,23:00,1627,57,475,15.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-05-07,07:00,1084,119,418,26.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-05-07,15:00,1120,72,233,15.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-05-07,23:00,1657,109,156,46.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-05-08,15:00,1013,87,159,35.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-05-08,23:00,1426,91,307,48.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-05-08,07:00,1423,102,217,48.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-05-08,15:00,1829,115,160,36.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-08,23:00,942,93,489,26.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-08,07:00,1158,75,438,37.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-05-08,15:00,1418,114,129,30.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-05-08,23:00,1278,67,487,2.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-05-08,07:00,823,112,416,35.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-05-08,15:00,1691,61,405,35.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-05-08,23:00,1035,105,341,17.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-08,07:00,1413,73,263,21.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-05-08,15:00,1017,75,338,35.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-08,23:00,1847,92,414,23.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-09,07:00,1176,76,214,16.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-05-09,23:00,1751,113,466,15.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-05-09,07:00,1233,110,175,9.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-09,15:00,1162,110,211,45.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-09,23:00,1573,96,208,21.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-05-09,07:00,1683,87,279,50.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-05-09,15:00,1311,86,178,32.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-05-09,23:00,1699,89,146,19.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-05-09,07:00,1006,111,144,25.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-05-09,15:00,1697,52,260,27.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-05-09,23:00,875,100,453,18.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-09,07:00,1785,93,185,47.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-05-09,15:00,1243,53,412,18.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-05-09,23:00,1314,105,261,26.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-05-10,07:00,1796,66,400,9.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-05-10,15:00,1091,115,480,6.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-05-10,23:00,1750,111,210,17.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-05-10,07:00,1552,110,170,6.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-05-10,15:00,1638,99,443,29.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-10,23:00,1377,93,344,34.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-05-10,15:00,1568,96,226,3.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-05-10,23:00,1767,64,352,14.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-10,07:00,912,63,293,49.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-05-10,15:00,926,87,292,11.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-10,23:00,1905,95,457,48.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-10,07:00,1400,92,171,35.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-10,15:00,971,76,277,0.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-10,23:00,1972,83,322,1.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-05-11,07:00,1803,108,492,,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-05-11,15:00,1647,117,299,15.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-05-11,23:00,1749,88,395,,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-05-11,07:00,986,80,154,0.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-11,15:00,1102,91,410,44.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-11,23:00,1565,108,251,1.0,Press-02,Press,Gedung A,Operator_8,C,1
+2026-05-11,07:00,1190,117,294,17.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-11,15:00,1613,99,485,50.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-11,23:00,1723,67,312,47.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-11,07:00,1988,52,256,41.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-05-11,15:00,1470,85,230,38.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-05-11,23:00,1914,120,394,39.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-05-11,07:00,806,104,181,38.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-05-11,15:00,1508,95,194,25.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-12,07:00,1315,51,350,24.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-05-12,15:00,846,82,162,4.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-05-12,23:00,804,89,148,3.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-05-12,07:00,871,54,345,40.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-05-12,15:00,1926,116,439,14.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-12,23:00,937,96,235,24.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-05-12,07:00,1446,73,130,6.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-05-12,15:00,1082,109,243,26.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-05-12,23:00,1888,105,322,,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-05-12,07:00,1938,64,304,32.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-12,15:00,1040,73,435,50.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-12,23:00,1937,108,205,4.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-05-12,07:00,1089,113,457,2.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-05-12,15:00,1038,54,416,43.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-05-12,23:00,1288,116,176,10.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-13,07:00,978,71,229,37.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-05-13,15:00,998,120,167,47.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-05-13,07:00,1950,120,198,46.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-05-13,15:00,1416,94,320,19.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-13,07:00,1976,69,168,45.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-05-13,15:00,1292,73,471,13.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-05-13,23:00,812,61,265,30.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-13,07:00,1112,76,342,3.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-13,15:00,1342,93,249,8.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-13,23:00,1531,68,336,45.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-05-13,07:00,1228,91,344,6.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-05-13,15:00,1141,94,444,9.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-05-13,23:00,1558,103,411,21.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-14,07:00,1959,112,300,26.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-05-14,15:00,1391,88,110,9.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-05-14,23:00,990,89,161,27.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-05-14,07:00,1540,82,270,9.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-05-14,15:00,984,52,440,47.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-05-14,23:00,1454,90,451,2.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-14,07:00,1482,73,251,17.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-14,15:00,1864,59,176,,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-05-14,23:00,1673,89,142,39.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-05-14,07:00,1595,80,139,29.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-05-14,15:00,1576,95,456,2.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-05-14,23:00,1110,51,260,25.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-05-14,07:00,1956,91,453,10.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-05-14,15:00,1127,86,162,17.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-14,23:00,1417,51,218,44.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-15,07:00,1989,56,484,6.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-05-15,15:00,1628,81,216,8.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-05-15,23:00,1680,54,122,22.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-05-15,07:00,1022,67,201,7.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-05-15,15:00,1623,78,354,46.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-05-15,23:00,1682,59,117,21.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-05-15,07:00,1425,56,367,18.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-05-15,15:00,1367,93,167,3.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-05-15,23:00,1105,68,499,49.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-05-15,07:00,1488,94,179,6.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-05-15,15:00,1882,91,444,48.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-05-15,23:00,842,67,266,46.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-15,07:00,1877,107,132,27.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-05-15,23:00,1876,107,370,17.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-05-16,07:00,970,114,300,11.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-05-16,15:00,1314,97,363,31.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-05-16,23:00,1614,119,351,12.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-05-16,07:00,1838,80,348,42.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-05-16,15:00,1652,69,160,3.0,Press-02,Press,Gedung A,Operator_8,C,1
+2026-05-16,23:00,1042,56,401,35.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-16,07:00,1984,116,298,48.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-05-16,15:00,1564,108,338,21.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-05-16,23:00,1306,60,179,15.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-05-16,15:00,951,113,326,35.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-05-16,23:00,890,62,374,24.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-16,07:00,968,67,115,39.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-05-16,15:00,1326,61,396,10.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-05-16,23:00,1854,104,311,36.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-05-17,07:00,1196,112,265,37.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-05-17,15:00,1891,117,117,49.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-05-17,23:00,1736,85,452,33.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-05-17,07:00,1501,107,344,8.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-05-17,15:00,1946,113,448,28.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-17,23:00,1140,94,134,18.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-05-17,07:00,1057,75,235,39.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-05-17,15:00,1467,58,142,13.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-17,23:00,1068,92,380,28.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-05-17,07:00,1077,52,254,13.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-05-17,15:00,864,80,158,40.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-05-17,23:00,836,65,357,0.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-05-17,07:00,1809,52,201,45.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-17,15:00,1151,109,451,16.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-05-17,23:00,1404,112,280,21.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-05-18,07:00,1380,120,367,16.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-05-18,15:00,1471,85,190,0.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-05-18,23:00,1872,50,429,5.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-05-18,07:00,1889,102,278,43.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-18,15:00,1553,53,271,35.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-18,23:00,1764,113,443,6.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-18,07:00,1794,71,326,25.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-05-18,15:00,1951,91,398,19.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-05-18,23:00,1692,103,299,31.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-05-18,07:00,881,105,466,39.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-05-18,15:00,851,55,387,0.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-05-18,23:00,981,90,215,22.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-18,07:00,943,75,280,5.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-18,15:00,1021,114,186,0.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-05-18,23:00,1480,52,349,25.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-05-19,07:00,1080,104,194,47.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-05-19,15:00,872,110,112,31.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-05-19,23:00,1750,78,264,33.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-05-19,07:00,967,94,149,37.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-05-19,15:00,1567,104,463,39.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-19,23:00,1600,98,336,34.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-05-19,07:00,1309,104,487,50.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-05-19,15:00,866,104,150,28.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-19,23:00,1972,83,331,23.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-05-19,07:00,1454,95,359,34.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-19,15:00,937,71,482,18.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-05-19,23:00,1330,117,414,35.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-19,15:00,1665,116,441,50.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-19,23:00,1143,76,168,49.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-05-20,07:00,1332,120,305,,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-05-20,15:00,1362,118,290,6.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-05-20,23:00,1967,74,148,45.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-05-20,07:00,941,52,250,13.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-05-20,15:00,1530,56,454,3.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-05-20,23:00,919,93,330,20.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-05-20,07:00,1334,95,381,3.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-20,15:00,1165,79,474,19.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-05-20,23:00,809,78,173,1.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-05-20,07:00,1387,59,195,39.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-05-20,15:00,1247,103,408,37.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-05-20,23:00,1964,76,322,19.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-05-20,07:00,1238,56,175,47.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-05-20,15:00,1173,107,188,0.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-05-20,23:00,1026,73,256,17.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-21,07:00,1815,96,267,24.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-05-21,15:00,1717,111,486,22.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-05-21,23:00,1434,81,434,16.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-05-21,07:00,1317,62,353,35.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-05-21,15:00,873,60,392,16.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-05-21,23:00,1187,76,168,16.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-21,07:00,904,79,308,31.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-05-21,15:00,1870,98,180,31.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-05-21,23:00,1841,94,173,35.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-21,07:00,1065,59,217,20.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-05-21,15:00,1204,53,270,15.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-05-21,23:00,1029,83,375,16.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-05-21,07:00,1395,71,391,41.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-05-21,15:00,906,105,292,22.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-05-21,23:00,1811,71,203,23.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-05-22,07:00,1509,94,169,35.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-05-22,15:00,1546,113,395,18.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-05-22,23:00,1444,95,390,42.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-05-22,07:00,1063,54,302,50.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-05-22,15:00,1698,109,236,0.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-22,23:00,1746,63,151,45.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-22,07:00,1087,60,269,16.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-05-22,15:00,1928,106,411,49.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-05-22,23:00,993,119,175,27.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-05-22,15:00,1653,82,301,18.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-05-22,07:00,1338,67,177,5.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-05-22,15:00,1591,60,174,32.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-22,23:00,891,56,112,30.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-05-23,07:00,1820,69,281,39.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-05-23,23:00,917,89,168,5.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-05-23,07:00,1116,67,123,0.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-05-23,15:00,1526,82,340,,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-23,23:00,1466,120,302,38.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-05-23,07:00,1992,109,263,23.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-05-23,15:00,1362,97,181,14.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-05-23,23:00,1583,66,285,,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-05-23,07:00,994,97,363,50.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-05-23,15:00,1921,119,177,47.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-05-23,23:00,1681,111,271,43.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-05-23,07:00,1964,82,181,37.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-23,15:00,1285,97,305,48.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-23,23:00,1421,111,184,15.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-05-24,07:00,1935,72,425,10.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-05-24,15:00,1622,64,433,38.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-05-24,23:00,1213,107,480,27.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-05-24,07:00,1382,97,110,25.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-05-24,15:00,1465,92,438,26.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-05-24,23:00,1363,83,415,4.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-05-24,07:00,1905,92,395,47.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-05-24,15:00,1563,93,151,12.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-24,23:00,1733,76,492,40.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-05-24,07:00,1076,104,107,25.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-05-24,15:00,1087,91,410,4.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-05-24,23:00,856,57,363,9.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-05-24,07:00,1786,62,381,,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-24,15:00,1398,78,147,1.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-05-24,23:00,1858,93,313,22.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-05-25,07:00,1274,56,231,28.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-05-25,15:00,1223,67,299,40.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-05-25,23:00,1229,77,324,40.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-05-25,07:00,989,74,434,8.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-05-25,15:00,1409,98,235,27.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-05-25,23:00,1237,51,202,20.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-05-25,07:00,1241,70,425,16.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-05-25,15:00,1164,59,236,38.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-05-25,23:00,997,108,378,25.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-05-25,07:00,1712,104,381,6.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-05-25,15:00,1957,90,375,,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-05-25,23:00,1951,69,262,16.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-05-25,07:00,1500,57,334,25.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-05-25,15:00,1991,111,431,31.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-05-25,23:00,1740,116,130,50.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-05-26,07:00,1040,88,427,47.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-05-26,15:00,943,90,282,,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-05-26,23:00,1563,83,234,37.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-05-26,07:00,1375,90,310,36.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-26,15:00,1802,115,112,22.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-26,23:00,1732,83,238,,Press-02,Press,Gedung A,Operator_13,A,4
+2026-05-26,07:00,1632,60,362,9.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-05-26,15:00,1420,92,415,48.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-05-26,23:00,1868,102,446,28.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-05-26,07:00,1360,70,123,27.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-05-26,15:00,1887,50,460,45.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-05-26,23:00,1053,58,122,5.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-05-26,07:00,850,54,415,25.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-05-26,15:00,816,54,332,28.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-05-26,23:00,1891,80,225,3.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-05-27,07:00,1814,75,241,36.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-05-27,15:00,1657,72,459,16.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-05-27,23:00,1312,52,273,44.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-05-27,07:00,1711,57,410,33.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-05-27,15:00,1017,56,276,39.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-05-27,23:00,1774,51,257,47.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-05-27,07:00,1489,119,363,3.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-05-27,15:00,1299,86,259,46.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-05-27,23:00,1985,97,333,5.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-05-27,07:00,981,62,300,24.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-27,15:00,1937,51,269,23.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-05-27,23:00,889,88,447,33.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-27,07:00,920,114,345,41.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-05-27,15:00,1372,59,394,24.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-27,23:00,1603,112,423,,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-28,07:00,939,71,304,35.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-05-28,15:00,1421,78,478,49.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-05-28,23:00,828,85,142,6.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-05-28,07:00,1757,74,347,17.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-05-28,15:00,1219,70,344,13.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-28,23:00,1515,120,291,9.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-05-28,07:00,1136,58,265,33.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-05-28,15:00,1636,52,117,5.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-05-28,23:00,1896,106,397,24.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-28,07:00,1742,78,262,15.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-05-28,15:00,1815,103,479,31.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-05-28,23:00,1463,95,313,26.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-05-28,07:00,858,119,496,6.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-28,15:00,1672,50,105,3.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-05-28,23:00,1073,71,137,10.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-05-29,07:00,1312,113,188,40.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-05-29,15:00,1716,67,316,8.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-05-29,23:00,1555,114,305,25.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-05-29,07:00,1569,95,453,12.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-29,15:00,1015,86,425,9.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-29,23:00,1224,86,246,29.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-05-29,07:00,940,99,372,10.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-05-29,15:00,1323,64,255,24.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-05-29,23:00,914,84,121,39.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-05-29,07:00,1291,61,279,15.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-05-29,15:00,911,81,460,36.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-05-29,07:00,1086,60,342,24.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-05-29,15:00,1442,65,322,22.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-05-29,23:00,1289,56,293,,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-05-30,07:00,1332,78,273,33.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-05-30,15:00,816,112,151,44.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-05-30,23:00,1308,74,341,9.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-05-30,07:00,1611,96,261,22.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-05-30,15:00,1018,105,332,19.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-05-30,23:00,1304,96,179,38.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-05-30,07:00,1556,63,158,3.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-30,15:00,1650,78,105,9.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-05-30,23:00,843,59,345,10.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-30,07:00,1153,77,285,36.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-05-30,15:00,1229,58,161,44.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-05-30,23:00,1667,73,259,22.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-05-30,07:00,1192,91,295,14.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-05-30,15:00,1700,92,226,7.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-05-30,23:00,1108,107,458,32.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-05-31,07:00,1854,58,435,36.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-05-31,15:00,1534,65,210,22.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-05-31,23:00,1955,53,159,17.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-05-31,07:00,1151,95,143,31.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-05-31,15:00,1650,76,455,27.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-05-31,23:00,1258,67,168,1.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-05-31,07:00,1915,96,397,43.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-05-31,15:00,1631,103,238,40.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-05-31,23:00,840,75,111,45.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-05-31,07:00,1845,99,366,24.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-05-31,23:00,848,61,430,17.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-05-31,07:00,1057,81,217,21.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-05-31,15:00,1246,58,456,8.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-05-31,23:00,1901,61,474,12.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-06-01,07:00,1352,77,371,1.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-06-01,15:00,1743,77,416,48.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-06-01,23:00,1540,91,280,24.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-06-01,07:00,1362,114,330,41.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-06-01,15:00,1409,63,447,46.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-06-01,07:00,1982,54,415,37.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-06-01,15:00,1971,101,292,32.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-06-01,23:00,1733,80,446,49.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-06-01,15:00,1711,61,416,38.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-06-01,23:00,803,116,306,21.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-06-01,07:00,1180,120,153,27.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-06-01,15:00,1888,64,377,35.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-06-01,23:00,932,73,112,,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-06-02,07:00,907,70,250,37.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-06-02,15:00,1754,100,198,18.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-06-02,23:00,1830,89,403,35.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-06-02,07:00,1748,90,205,38.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-06-02,15:00,871,100,363,19.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-06-02,23:00,1030,82,184,1.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-06-02,07:00,1612,74,499,43.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-06-02,15:00,1448,87,400,13.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-06-02,23:00,1555,89,381,21.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-06-02,07:00,1540,62,435,,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-06-02,15:00,1818,116,187,11.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-06-02,23:00,1363,116,222,31.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-06-02,07:00,974,51,275,19.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-06-02,15:00,1587,74,419,11.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-06-02,23:00,1791,67,189,14.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-06-03,07:00,1642,115,331,38.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-06-03,15:00,1284,60,436,4.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-06-03,23:00,1729,116,456,,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-06-03,07:00,1106,84,378,,Press-02,Press,Gedung A,Operator_7,B,1
+2026-06-03,15:00,1453,78,396,48.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-06-03,23:00,1369,66,395,42.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-06-03,07:00,1021,81,481,20.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-06-03,15:00,1520,56,476,30.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-06-03,23:00,912,73,424,1.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-06-03,07:00,833,59,236,31.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-06-03,15:00,1232,91,161,,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-06-03,23:00,1318,64,291,40.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-06-03,07:00,1113,104,415,12.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-06-03,15:00,1917,97,392,37.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-06-03,23:00,994,55,489,24.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-06-04,07:00,929,114,133,19.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-06-04,15:00,1872,107,443,34.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-06-04,23:00,1385,59,192,8.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-06-04,07:00,1473,99,320,48.0,Press-02,Press,Gedung A,Operator_8,C,1
+2026-06-04,15:00,909,108,312,45.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-06-04,23:00,1279,58,223,32.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-06-04,07:00,1138,114,163,42.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-06-04,15:00,1908,119,456,33.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-06-04,23:00,1364,66,310,28.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-06-04,07:00,856,60,251,25.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-06-04,15:00,1086,104,301,46.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-06-04,23:00,803,52,331,35.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-06-04,07:00,1744,87,467,11.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-06-04,15:00,1675,99,402,27.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-06-04,23:00,1829,94,128,45.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-06-05,07:00,1579,65,151,26.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-06-05,15:00,999,91,241,10.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-06-05,23:00,975,93,241,,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-06-05,07:00,1495,103,226,24.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-06-05,15:00,1372,99,457,37.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-06-05,23:00,1038,111,417,,Press-02,Press,Gedung A,Operator_7,B,1
+2026-06-05,07:00,1974,100,239,9.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-06-05,15:00,1800,85,486,29.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-06-05,23:00,1005,89,421,4.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-06-05,07:00,975,108,357,50.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-06-05,15:00,1422,114,286,7.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-06-05,23:00,1491,66,128,39.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-06-05,07:00,1499,90,148,41.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-06-05,15:00,1684,94,171,19.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-06-05,23:00,1305,90,157,49.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-06-06,07:00,1557,118,166,32.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-06-06,15:00,1617,80,220,35.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-06-06,23:00,809,86,385,22.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-06-06,07:00,1301,103,466,20.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-06-06,15:00,1162,84,127,45.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-06-06,23:00,1528,51,234,10.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-06-06,07:00,1936,98,317,48.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-06-06,15:00,1279,85,260,13.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-06-06,23:00,1895,103,237,5.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-06-06,07:00,1608,81,371,16.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-06-06,15:00,1286,81,305,35.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-06-06,23:00,1847,101,474,32.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-06-06,07:00,976,113,127,26.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-06-06,15:00,1460,111,114,14.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-06-06,23:00,1820,105,238,40.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-06-07,07:00,1384,64,467,42.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-06-07,15:00,1566,69,253,18.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-06-07,23:00,1142,87,493,32.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-06-07,07:00,1683,83,466,38.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-06-07,15:00,839,110,447,37.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-06-07,23:00,1711,78,393,25.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-06-07,07:00,1515,79,247,27.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-06-07,15:00,1256,58,214,13.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-06-07,23:00,972,72,118,17.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-06-07,07:00,1713,82,320,28.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-06-07,15:00,1960,104,141,41.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-06-07,23:00,1975,56,234,36.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-06-07,07:00,919,99,241,38.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-06-07,23:00,1530,55,284,23.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-06-08,07:00,1413,93,217,,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-06-08,15:00,882,64,127,21.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-06-08,23:00,1391,101,277,46.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-06-08,07:00,1207,76,186,45.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-06-08,15:00,1536,117,455,42.0,Press-02,Press,Gedung A,Operator_4,B,3
+2026-06-08,23:00,1939,67,248,35.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-06-08,07:00,1968,77,274,18.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-06-08,15:00,1438,109,206,18.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-06-08,23:00,811,96,248,3.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-06-08,07:00,1146,108,445,43.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-06-08,15:00,1127,87,164,3.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-06-08,23:00,1965,95,125,41.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-06-08,07:00,1075,116,237,30.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-06-08,15:00,1776,111,226,46.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-06-08,23:00,1520,66,145,19.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-06-09,07:00,1992,110,496,20.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-06-09,15:00,1579,111,482,29.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-06-09,23:00,1042,57,123,19.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-06-09,07:00,1409,65,214,33.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-06-09,15:00,1792,103,495,43.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-06-09,23:00,1269,104,109,10.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-06-09,07:00,842,73,137,34.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-06-09,15:00,1778,100,321,4.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-06-09,23:00,1884,101,318,,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-06-09,07:00,1259,94,180,3.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-06-09,15:00,848,112,290,5.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-06-09,23:00,1917,71,165,0.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-06-09,07:00,1318,100,272,38.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-06-09,15:00,1521,74,206,2.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-06-09,23:00,935,52,201,31.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-06-10,07:00,1961,70,458,12.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-06-10,15:00,1840,58,109,40.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-06-10,07:00,1598,95,177,6.0,Press-02,Press,Gedung A,Operator_1,C,2
+2026-06-10,15:00,1284,104,169,19.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-06-10,23:00,1127,70,124,36.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-06-10,07:00,1771,64,185,13.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-06-10,15:00,1142,104,483,,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-06-10,23:00,1001,62,259,3.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-06-10,07:00,1019,82,417,47.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-06-10,15:00,1399,95,392,29.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-06-10,23:00,1019,88,401,5.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-06-10,07:00,1109,93,487,29.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-06-10,15:00,1286,53,422,1.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-06-10,23:00,1003,67,282,36.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-06-11,07:00,1458,55,251,26.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-06-11,15:00,1215,93,103,46.0,Stamping A-01,Stamping,Gedung A,Operator_10,C,4
+2026-06-11,23:00,1716,92,134,49.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-06-11,15:00,835,111,428,7.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-06-11,23:00,1782,70,487,11.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-06-11,07:00,1720,108,231,9.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-06-11,15:00,1104,69,237,10.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-06-11,23:00,1183,74,297,20.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-06-11,07:00,1217,85,230,2.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-06-11,23:00,1898,89,375,40.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-06-11,07:00,1316,51,236,38.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-06-11,15:00,949,61,234,6.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-06-11,23:00,1022,99,291,35.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-06-12,07:00,1578,52,167,23.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-06-12,15:00,1401,111,316,15.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-06-12,23:00,1429,99,282,18.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-06-12,07:00,1593,107,288,9.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-06-12,15:00,1972,102,295,42.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-06-12,23:00,1186,70,386,32.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-06-12,07:00,1835,110,405,4.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-06-12,15:00,1577,71,394,31.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-06-12,23:00,1216,58,378,34.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-06-12,07:00,1750,99,468,17.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-06-12,15:00,1466,89,188,11.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-06-12,23:00,1263,106,171,46.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-06-12,07:00,868,103,339,38.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-06-12,15:00,889,91,312,3.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-06-12,23:00,1579,99,231,2.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-06-13,07:00,1698,82,100,46.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-06-13,15:00,1629,70,406,1.0,Stamping A-01,Stamping,Gedung A,Operator_15,A,5
+2026-06-13,23:00,1664,104,394,25.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-06-13,07:00,1514,61,433,38.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-06-13,15:00,1491,57,476,25.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-06-13,23:00,1263,71,130,39.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-06-13,07:00,1361,82,470,45.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-06-13,15:00,1842,57,450,36.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-06-13,23:00,1052,94,274,29.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-06-13,07:00,843,105,470,20.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-06-13,15:00,1690,94,404,44.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-06-13,23:00,1913,87,171,43.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-06-13,07:00,1164,90,315,,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-06-13,15:00,1644,64,482,41.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-06-13,23:00,1298,118,309,13.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-06-14,07:00,1836,99,259,3.0,Stamping A-01,Stamping,Gedung A,Operator_9,B,2
+2026-06-14,15:00,1742,99,163,1.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-06-14,07:00,1474,99,465,0.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-06-14,15:00,1999,114,407,9.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-06-14,23:00,1830,111,341,44.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-06-14,07:00,1829,71,130,0.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-06-14,15:00,1510,77,492,17.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-06-14,23:00,1606,93,283,7.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-06-14,07:00,1837,90,296,24.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-06-14,15:00,1572,120,340,2.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-06-14,23:00,1587,118,495,48.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-06-14,07:00,925,105,323,18.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-06-14,15:00,1199,73,473,34.0,Assembly-05,Assembly,Gedung C,Operator_4,B,3
+2026-06-14,23:00,1597,107,204,45.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-06-15,07:00,1033,118,440,2.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-06-15,23:00,863,59,474,,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-06-15,07:00,1484,105,372,1.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-06-15,15:00,1111,112,275,20.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-06-15,23:00,848,87,137,18.0,Press-02,Press,Gedung A,Operator_10,C,4
+2026-06-15,07:00,945,84,212,23.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-06-15,15:00,1185,60,479,20.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-06-15,23:00,1171,101,438,42.0,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-06-15,07:00,1689,101,164,27.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-06-15,15:00,1228,92,285,45.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-06-15,23:00,1823,63,344,21.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-06-15,07:00,1705,56,471,49.0,Assembly-05,Assembly,Gedung C,Operator_5,B,2
+2026-06-15,15:00,1410,119,461,21.0,Assembly-05,Assembly,Gedung C,Operator_10,C,4
+2026-06-15,23:00,920,71,151,36.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-06-16,07:00,1135,105,405,40.0,Stamping A-01,Stamping,Gedung A,Operator_14,A,1
+2026-06-16,15:00,1270,108,496,26.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-06-16,23:00,1600,50,176,30.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-06-16,07:00,1599,59,142,2.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-06-16,15:00,1141,84,185,18.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-06-16,23:00,1000,63,407,18.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-06-16,07:00,949,72,438,49.0,Stamping B-03,Stamping,Gedung B,Operator_6,A,3
+2026-06-16,15:00,933,86,441,,Stamping B-03,Stamping,Gedung B,Operator_11,C,1
+2026-06-16,23:00,1596,97,479,3.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-06-16,07:00,1109,112,292,50.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-06-16,15:00,1331,56,476,39.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-06-16,23:00,1434,78,455,7.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-06-16,07:00,1323,100,366,35.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-06-16,15:00,868,84,141,,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-06-16,23:00,1284,55,279,11.0,Assembly-05,Assembly,Gedung C,Operator_12,A,2
+2026-06-17,07:00,1389,69,435,50.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-06-17,15:00,1692,111,111,36.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-06-17,23:00,1976,118,391,38.0,Stamping A-01,Stamping,Gedung A,Operator_6,A,3
+2026-06-17,07:00,1948,114,253,35.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-06-17,15:00,1208,74,398,3.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-06-17,23:00,1591,112,270,9.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-06-17,07:00,1193,78,384,10.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-06-17,15:00,1185,78,461,41.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-06-17,23:00,1268,77,288,48.0,Stamping B-03,Stamping,Gedung B,Operator_7,B,1
+2026-06-17,07:00,1927,73,493,38.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-06-17,15:00,1604,97,356,14.0,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-06-17,23:00,1689,64,192,7.0,CNC-04,CNC,Gedung B,Operator_10,C,4
+2026-06-17,07:00,1592,102,157,0.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-06-17,15:00,1929,117,497,37.0,Assembly-05,Assembly,Gedung C,Operator_11,C,1
+2026-06-17,23:00,1864,57,453,1.0,Assembly-05,Assembly,Gedung C,Operator_3,A,1
+2026-06-18,07:00,838,94,242,36.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-06-18,15:00,1581,119,297,20.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-06-18,23:00,1734,91,452,22.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-06-18,07:00,1101,89,115,5.0,Press-02,Press,Gedung A,Operator_15,A,5
+2026-06-18,15:00,809,59,286,20.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-06-18,23:00,1468,69,457,,Press-02,Press,Gedung A,Operator_3,A,1
+2026-06-18,07:00,1062,81,337,0.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-06-18,15:00,839,75,164,10.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-06-18,23:00,1034,78,303,13.0,Stamping B-03,Stamping,Gedung B,Operator_12,A,2
+2026-06-18,07:00,1997,90,330,35.0,CNC-04,CNC,Gedung B,Operator_8,C,1
+2026-06-18,15:00,1324,75,212,42.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-06-18,23:00,1222,97,225,,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-06-18,07:00,1601,80,260,41.0,Assembly-05,Assembly,Gedung C,Operator_14,A,1
+2026-06-18,15:00,966,70,454,20.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-06-18,23:00,1243,102,164,38.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-06-19,07:00,1939,78,390,25.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-06-19,15:00,1713,119,257,33.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-06-19,23:00,1912,51,459,20.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-06-19,07:00,1470,97,427,1.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-06-19,15:00,971,64,494,25.0,Press-02,Press,Gedung A,Operator_14,A,1
+2026-06-19,23:00,1534,60,463,39.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-06-19,07:00,1360,91,288,26.0,Stamping B-03,Stamping,Gedung B,Operator_5,B,2
+2026-06-19,15:00,907,66,429,4.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-06-19,23:00,907,72,151,23.0,Stamping B-03,Stamping,Gedung B,Operator_14,A,1
+2026-06-19,07:00,1804,86,290,18.0,CNC-04,CNC,Gedung B,Operator_11,C,1
+2026-06-19,15:00,1845,74,248,40.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-06-19,23:00,1315,70,335,8.0,CNC-04,CNC,Gedung B,Operator_1,C,2
+2026-06-19,07:00,1191,82,151,31.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-06-19,15:00,1536,93,195,42.0,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-06-20,07:00,1378,68,182,3.0,Stamping A-01,Stamping,Gedung A,Operator_13,A,4
+2026-06-20,15:00,813,95,438,37.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-06-20,23:00,1658,117,405,20.0,Stamping A-01,Stamping,Gedung A,Operator_11,C,1
+2026-06-20,07:00,1582,91,277,26.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-06-20,15:00,1512,97,370,32.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-06-20,23:00,1514,52,480,24.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-06-20,07:00,1306,62,374,10.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-06-20,15:00,1759,108,129,26.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-06-20,23:00,1054,80,105,17.0,Stamping B-03,Stamping,Gedung B,Operator_8,C,1
+2026-06-20,07:00,857,107,100,3.0,CNC-04,CNC,Gedung B,Operator_13,A,4
+2026-06-20,15:00,938,69,482,33.0,CNC-04,CNC,Gedung B,Operator_2,A,3
+2026-06-20,23:00,817,98,306,35.0,CNC-04,CNC,Gedung B,Operator_3,A,1
+2026-06-20,07:00,822,103,323,29.0,Assembly-05,Assembly,Gedung C,Operator_2,A,3
+2026-06-20,15:00,1601,65,456,,Assembly-05,Assembly,Gedung C,Operator_8,C,1
+2026-06-20,23:00,1783,80,276,38.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-06-21,07:00,1304,57,118,41.0,Stamping A-01,Stamping,Gedung A,Operator_12,A,2
+2026-06-21,15:00,1890,114,165,4.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-06-21,23:00,1038,81,296,38.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-06-21,07:00,1242,116,222,36.0,Press-02,Press,Gedung A,Operator_5,B,2
+2026-06-21,15:00,847,54,282,21.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-06-21,23:00,835,97,201,27.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-06-21,07:00,1115,76,270,5.0,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-06-21,15:00,1494,51,179,6.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-06-21,23:00,1867,88,245,40.0,Stamping B-03,Stamping,Gedung B,Operator_13,A,4
+2026-06-21,07:00,1375,52,158,50.0,CNC-04,CNC,Gedung B,Operator_9,B,2
+2026-06-21,15:00,1690,118,271,,CNC-04,CNC,Gedung B,Operator_5,B,2
+2026-06-21,23:00,1876,107,466,30.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-06-21,07:00,1874,98,310,30.0,Assembly-05,Assembly,Gedung C,Operator_7,B,1
+2026-06-21,15:00,1756,74,451,36.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-06-21,23:00,1760,100,440,17.0,Assembly-05,Assembly,Gedung C,Operator_9,B,2
+2026-06-22,07:00,1262,58,217,15.0,Stamping A-01,Stamping,Gedung A,Operator_8,C,1
+2026-06-22,15:00,1666,71,109,29.0,Stamping A-01,Stamping,Gedung A,Operator_7,B,1
+2026-06-22,23:00,1718,109,367,42.0,Stamping A-01,Stamping,Gedung A,Operator_5,B,2
+2026-06-22,07:00,1284,114,115,0.0,Press-02,Press,Gedung A,Operator_9,B,2
+2026-06-22,15:00,1268,78,427,17.0,Press-02,Press,Gedung A,Operator_12,A,2
+2026-06-22,23:00,1220,111,338,23.0,Press-02,Press,Gedung A,Operator_6,A,3
+2026-06-22,07:00,1966,52,381,13.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-06-22,15:00,1931,57,269,48.0,Stamping B-03,Stamping,Gedung B,Operator_10,C,4
+2026-06-22,23:00,1393,56,191,25.0,Stamping B-03,Stamping,Gedung B,Operator_1,C,2
+2026-06-22,07:00,1787,92,432,45.0,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-06-22,15:00,1570,77,233,39.0,CNC-04,CNC,Gedung B,Operator_15,A,5
+2026-06-22,23:00,1458,86,414,22.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-06-22,07:00,835,57,456,5.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-06-22,15:00,1423,66,416,6.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-06-22,23:00,1687,101,236,24.0,Assembly-05,Assembly,Gedung C,Operator_13,A,4
+2026-06-23,07:00,937,111,219,28.0,Stamping A-01,Stamping,Gedung A,Operator_1,C,2
+2026-06-23,15:00,1780,96,215,0.0,Stamping A-01,Stamping,Gedung A,Operator_3,A,1
+2026-06-23,23:00,908,93,138,25.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-06-23,07:00,1272,60,166,36.0,Press-02,Press,Gedung A,Operator_13,A,4
+2026-06-23,15:00,1715,71,115,29.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-06-23,23:00,1126,91,226,32.0,Press-02,Press,Gedung A,Operator_7,B,1
+2026-06-23,07:00,1404,59,291,,Stamping B-03,Stamping,Gedung B,Operator_3,A,1
+2026-06-23,23:00,1561,115,389,16.0,Stamping B-03,Stamping,Gedung B,Operator_4,B,3
+2026-06-23,07:00,1384,69,345,,CNC-04,CNC,Gedung B,Operator_4,B,3
+2026-06-23,15:00,1353,78,149,25.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-06-23,23:00,1341,91,356,39.0,CNC-04,CNC,Gedung B,Operator_7,B,1
+2026-06-23,07:00,813,57,356,27.0,Assembly-05,Assembly,Gedung C,Operator_1,C,2
+2026-06-23,15:00,1721,82,369,40.0,Assembly-05,Assembly,Gedung C,Operator_6,A,3
+2026-06-23,23:00,1885,93,415,41.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-06-24,07:00,1028,97,224,41.0,Stamping A-01,Stamping,Gedung A,Operator_4,B,3
+2026-06-24,15:00,1878,71,438,14.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-06-24,23:00,1305,92,451,38.0,Stamping A-01,Stamping,Gedung A,Operator_2,A,3
+2026-06-24,07:00,1230,64,127,47.0,Press-02,Press,Gedung A,Operator_2,A,3
+2026-06-24,15:00,1377,79,319,37.0,Press-02,Press,Gedung A,Operator_3,A,1
+2026-06-24,23:00,1878,80,273,38.0,Press-02,Press,Gedung A,Operator_11,C,1
+2026-06-24,07:00,943,62,294,31.0,Stamping B-03,Stamping,Gedung B,Operator_2,A,3
+2026-06-24,15:00,1228,115,108,10.0,Stamping B-03,Stamping,Gedung B,Operator_9,B,2
+2026-06-24,23:00,1220,77,447,41.0,Stamping B-03,Stamping,Gedung B,Operator_15,A,5
+2026-06-24,07:00,1536,74,385,26.0,CNC-04,CNC,Gedung B,Operator_12,A,2
+2026-06-24,15:00,1749,68,254,37.0,CNC-04,CNC,Gedung B,Operator_14,A,1
+2026-06-24,23:00,1949,107,139,18.0,CNC-04,CNC,Gedung B,Operator_6,A,3
+2026-06-24,07:00,1578,50,335,45.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
+2026-06-24,23:00,1232,81,126,1.0,Assembly-05,Assembly,Gedung C,Operator_15,A,5
